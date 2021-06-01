@@ -7,7 +7,7 @@ class FilledOutlineButton extends StatelessWidget {
   final VoidCallback press;
   final String text;
 
-  const FilledOutlineButton({Key key, this.isFilled, this.press, this.text}) : super(key: key);
+  const FilledOutlineButton({Key key, this.isFilled = false,@required this.press,@required this.text}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     return MaterialButton(
