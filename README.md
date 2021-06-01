@@ -1,13 +1,16 @@
 # Chat/Messaging App Light and Dark Theme - Flutter UI
 
-A new Flutter application.
-
+Welcome Screen
 ![Preview](screenshot/1.jpg)
+
+Chat Screen
 ![Preview](screenshot/2.jpg)
+
+messages screen
 ![Preview](screenshot/3.jpg)
 
 
-A new Flutter application.
+
 
 ## Getting Started
 
