@@ -1,4 +1,9 @@
-# flutter_chat_app
+# Chat/Messaging App Light and Dark Theme - Flutter UI
+
+A new Flutter application.
+
+![Preview](/screenshot.png)
+
 
 A new Flutter application.
 
