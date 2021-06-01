@@ -2,7 +2,9 @@
 
 A new Flutter application.
 
-![Preview](/screenshot.png)
+![Preview](screenshot/1.jpg)
+![Preview](screenshot/2.jpg)
+![Preview](screenshot/3.jpg)
 
 
 A new Flutter application.
